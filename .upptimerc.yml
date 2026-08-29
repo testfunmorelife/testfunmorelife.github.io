@@ -1,6 +1,6 @@
 # เปลี่ยนลิงก์เป็น URL ของ Repository ของคุณเอง
 owner: testfunmorelife # ใส่ Username GitHub ของคุณ
-repo: checkcheck      # ใส่ ชื่อ Repository ที่คุณตั้ง
+repo: testfunmorelife.github.io      # ใส่ ชื่อ Repository ที่คุณตั้ง
 
 # เพิ่มรายชื่อเว็บไซต์ที่ต้องการมอนิเตอร์ตรงนี้
 sites:
